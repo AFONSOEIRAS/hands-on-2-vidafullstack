@@ -148,22 +148,22 @@ nav.nav-produtos ul.nav li ul.nav li {
 .produtos-compra .produtos-conteudo p {
   font-size: 16px;
 }
-.produtos-compra .produtos-conteudo .produtos-preco .produtos-stars {
+.produtos-compra .produtos-preco .produtos-stars {
   font-size: 16px;
 }
-.produtos-compra .produtos-conteudo .produtos-preco .produtos-stars svg {
+.produtos-compra .produtos-preco .produtos-stars svg {
   fill: #FFC107;
 }
-.produtos-compra .produtos-conteudo .produtos-preco strong {
+.produtos-compra .produtos-preco strong {
   font-size: 40px;
 }
-.produtos-compra .produtos-conteudo .produtos-preco form {
+.produtos-compra .produtos-preco form {
   font-weight: 100;
 }
-.produtos-compra .produtos-conteudo .produtos-preco form label {
+.produtos-compra .produtos-preco form label {
   margin: 0;
 }
-.produtos-compra .produtos-conteudo .produtos-preco .produtos-stars svg, .produtos-compra .produtos-conteudo .produtos-preco strong, .produtos-compra .produtos-conteudo .produtos-preco form {
+.produtos-compra .produtos-preco .produtos-stars svg, .produtos-compra .produtos-preco strong, .produtos-compra .produtos-preco form {
   font-size: 16px;
 }
 
